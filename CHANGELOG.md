@@ -1,0 +1,20 @@
+# 1.0.0 (2020-05-28)
+
+### Features
+
+- add new webpack config ([9c9071e](https://github.com/zeevosec/fhir-app-starter/commit/9c9071e777d361bb93c788df36497a5d251a0bb4))
+- add config to redux store ([eccf60e](https://github.com/zeevosec/fhir-app-starter/commit/eccf60e4bd58abe7f1d06e5df13562f4787bc0d0))
+- add error if launched incorrectly ([aea6e19](https://github.com/zeevosec/fhir-app-starter/commit/aea6e1982c96c5703d03041568788684b6f70e48))
+- add launch.html ([2bf930d](https://github.com/zeevosec/fhir-app-starter/commit/2bf930dc316a8173d50a29a9542d9a459a3207b2))
+- add meta icons ([8da7deb](https://github.com/zeevosec/fhir-app-starter/commit/8da7deb5a3d70ebee7d577fbb7ec627cda640b0a))
+- fix starting script ([707c2f1](https://github.com/zeevosec/fhir-app-starter/commit/707c2f10cbb95a21f8b4ae0c519c436179f54556))
+- initial commit ([f900852](https://github.com/zeevosec/fhir-app-starter/commit/f900852a1f70fe0fe7928770aa7d91fce78a6ac3))
+- lots of improvements ([7bf60d1](https://github.com/zeevosec/fhir-app-starter/commit/7bf60d1ff20692425f0b6503552e3a2344a916e0))
+- remove debugging code ([89a1ed5](https://github.com/zeevosec/fhir-app-starter/commit/89a1ed50cc6fd8c76135a9dab9cd9274fd83be4f))
+- remove debugging script ([e5226ee](https://github.com/zeevosec/fhir-app-starter/commit/e5226eedd4580df0603f7ee366ef1239268c5870))
+- update footer ([25d8fb0](https://github.com/zeevosec/fhir-app-starter/commit/25d8fb047b87c3caeec7315b94f1a5e83e4e1eac))
+- update gitignore ([6234971](https://github.com/zeevosec/fhir-app-starter/commit/62349714ec53e3f07ce6dc05b4ed0086e7430c69))
+- update README ([9e82133](https://github.com/zeevosec/fhir-app-starter/commit/9e821334e4a618cc60b57e999bb3562073efb939))
+- Update README ([d7e2eec](https://github.com/zeevosec/fhir-app-starter/commit/d7e2eec0413ba3f6b1a641bd1299fa8342b64118))
+- use module.exports ([4908d5d](https://github.com/zeevosec/fhir-app-starter/commit/4908d5d1cf18c8a77cb548b0d7ced81f6dba3160))
+- use selectors ([b16e89c](https://github.com/zeevosec/fhir-app-starter/commit/b16e89c6097419a8f36ae835ef63189d88b09cdb))
