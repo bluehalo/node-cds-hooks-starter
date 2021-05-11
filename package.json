@@ -48,7 +48,7 @@
     "conventional-changelog-cli": "^2.0.34",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.4",
